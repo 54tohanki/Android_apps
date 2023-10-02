@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main_grid)
+        setContentView(R.layout.activity_main_relative)
 
         val clickHereButton = findViewById<Button>(R.id.button)
         switchButton = findViewById(R.id.switch1)
