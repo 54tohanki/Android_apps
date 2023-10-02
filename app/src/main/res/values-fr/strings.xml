@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">Laboratoires Android</string>
-<string name="hello_message">Salut tout le monde!</string>
-<string name="ButtonText">Je\ suis un bouton</string>
+    <string name="toast">Voici plus d\'informations</string>
+    <string name="look">Regardez mon interface graphique</string>
+    <string name="click">CLIQUEZ ICI</string>
+    <string name="check">Regarde ça!</string>
+    <string name="switchh">Allumer / éteindre</string>
+    <string name="type">Écrivez ici</string>
 </resources>
